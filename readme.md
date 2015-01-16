@@ -1,6 +1,7 @@
-#Jogo da Memória
+#Jogo da MemÃ³ria
 
-Implementação do tradicional jogo da memória.
+ImplementaÃ§Ã£o do tradicional jogo da memÃ³ria.
+
 Desenvolvido em C# Windows Forms.
 
 ##Bibliotecas Externas
